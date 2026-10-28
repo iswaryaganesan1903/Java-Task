@@ -27,7 +27,8 @@ class Sample1
               s1.increment();
               s2.increment();
               s3.increment();
-              //s1.display();
+              s1.display();
               Student.display();
+              
       }
 }
